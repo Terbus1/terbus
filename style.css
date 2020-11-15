@@ -1,0 +1,31 @@
+body{
+background-color:#222226;
+
+}
+.dws{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	-o-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+
+}
+.btn{
+	color: #fff;
+	background-color: #444446;
+	border:6px;
+	font-size: 60px;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 700px;
+	height: 240px;
+	display: block;
+	text-align: center;
+	line-height: 120px;
+	font-family: 'Poppins', sans-serif;
+	position: relative;
+	cursor: pointer;
+}
